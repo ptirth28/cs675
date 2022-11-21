@@ -1,0 +1,13 @@
+﻿Model,SMOTE,Model Finetuning,Accuracy,Weighted Avg Recall,Macro Avg Recall
+naïve_bayes,No,No,0.75,0.75,0.75
+logistic_regression,No,No,0.81,0.81,0.73
+random_forest,No,No,0.79,0.79,0.71
+xgboost,No,No,0.79,0.79,0.7
+naïve_bayes,Yes,No,0.73,0.73,0.75
+logistic_regression,Yes,No,0.76,0.76,0.77
+random_forest,Yes,No,0.77,0.77,0.72
+xgboost,Yes,No,0.78,0.78,0.74
+random_forest,No,Yes,0.81,0.81,0.72
+xgboost,No,Yes,0.81,0.81,0.73
+random_forest,Yes,Yes,0.77,0.77,0.77
+xgboost,Yes,Yes,0.78,0.78,0.77
